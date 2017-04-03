@@ -1,7 +1,15 @@
-#Setup, install packages and set working directory
-install.packages("igraph")
+#! /usr/bin/env Rscript
+
+#Compute topological parameters of Experimentally verified, hierarchical random graphs (Al-Anzi et. al, 2016). 
+#Sherif Gerges <sherif_gerges@g.harvard.edu>
+
+
+
+
+
+
+#Setup, install packages.
 library(igraph)
-setwd('...')
 
 #Import the Network
 input=read.csv('import_adjacency_matrix.csv',header=TRUE,row.names=1,check.names=FALSE)
