@@ -1,6 +1,6 @@
 #! /usr/bin/env Rscript
 
-#Compute topological parameters of Experimentally verified, hierarchical random graphs (Al-Anzi et. al, 2016). 
+#Compute topological parameters of Experimentally verified, hierarchical random graphs (Al-Anzi et. al, JTB, 2017). 
 #Sherif Gerges <sherif_gerges@g.harvard.edu>
 
 
